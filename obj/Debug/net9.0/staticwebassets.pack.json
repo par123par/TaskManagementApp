@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\TaskManagementApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TaskManagementApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TaskManagementApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TaskManagementApp.props",
+      "PackagePath": "build\\TaskManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagementApp.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TaskManagementApp.props",
+      "PackagePath": "buildTransitive\\TaskManagementApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

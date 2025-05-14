@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "Yy9XrdijIyVwXGHF6AcKCA0PPGhA/EZtj21/HSuUKx0=",
+  "Source": "TaskManagementApp",
+  "BasePath": "_content/TaskManagementApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagementApp\\wwwroot",
+      "Source": "TaskManagementApp",
+      "ContentRoot": "d:\\TaskManagementApp\\wwwroot\\",
+      "BasePath": "_content/TaskManagementApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "d:\\TaskManagementApp\\obj\\Debug\\net9.0\\compressed\\r22alj4wld-2ak44ps5pr.gz",
+      "SourceId": "TaskManagementApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\TaskManagementApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TaskManagementApp",
+      "RelativePath": "css/site#[.{fingerprint=2ak44ps5pr}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "d:\\TaskManagementApp\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0ex6m0oc97",
+      "Integrity": "iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "d:\\TaskManagementApp\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "d:\\TaskManagementApp\\wwwroot\\css\\site.css",
+      "SourceId": "TaskManagementApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "d:\\TaskManagementApp\\wwwroot\\",
+      "BasePath": "_content/TaskManagementApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ak44ps5pr",
+      "Integrity": "qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.2ak44ps5pr.css",
+      "AssetFile": "d:\\TaskManagementApp\\obj\\Debug\\net9.0\\compressed\\r22alj4wld-2ak44ps5pr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004504504505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ak44ps5pr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.2ak44ps5pr.css",
+      "AssetFile": "d:\\TaskManagementApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ak44ps5pr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.2ak44ps5pr.css.gz",
+      "AssetFile": "d:\\TaskManagementApp\\obj\\Debug\\net9.0\\compressed\\r22alj4wld-2ak44ps5pr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ak44ps5pr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "d:\\TaskManagementApp\\obj\\Debug\\net9.0\\compressed\\r22alj4wld-2ak44ps5pr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004504504505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "d:\\TaskManagementApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qse167ameiA1qDagVKIjg4cxuEvrG7AJS1571vUYH7k="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "d:\\TaskManagementApp\\obj\\Debug\\net9.0\\compressed\\r22alj4wld-2ak44ps5pr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:57:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iETCaz11oMU0ipvq46wfmRWCbDhJc3066tANDmjCiU4="
+        }
+      ]
+    }
+  ]
+}
